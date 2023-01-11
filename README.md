@@ -1,2 +1,2 @@
 # Parkour_game
-A parkour game wrote with Processing
+A parkour game written in Processing
